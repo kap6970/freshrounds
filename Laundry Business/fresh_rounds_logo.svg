@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700;800&amp;display=swap');
+      text { font-family: 'Nunito', 'Trebuchet MS', Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <!-- Outer badge circle — centered at 200,200 -->
+  <circle cx="200" cy="200" r="165" fill="white" stroke="#1a3a5c" stroke-width="5"/>
+  <!-- Inner accent ring -->
+  <circle cx="200" cy="200" r="152" fill="none" stroke="#2dd4bf" stroke-width="1.5" opacity="0.55"/>
+
+  <!-- Three bubbles — upper portion, vertically balanced -->
+  <!-- Left bubble -->
+  <circle cx="155" cy="155" r="34" fill="#2dd4bf" fill-opacity="0.15" stroke="#2dd4bf" stroke-width="4.5"/>
+  <circle cx="143" cy="143" r="6" fill="white" fill-opacity="0.75"/>
+
+  <!-- Center bubble (slightly raised) -->
+  <circle cx="200" cy="140" r="34" fill="#2dd4bf" fill-opacity="0.28" stroke="#2dd4bf" stroke-width="4.5"/>
+  <circle cx="188" cy="128" r="6" fill="white" fill-opacity="0.75"/>
+
+  <!-- Right bubble -->
+  <circle cx="245" cy="155" r="34" fill="#2dd4bf" fill-opacity="0.15" stroke="#2dd4bf" stroke-width="4.5"/>
+  <circle cx="233" cy="143" r="6" fill="white" fill-opacity="0.75"/>
+
+  <!-- Wordmark -->
+  <text x="200" y="242" text-anchor="middle" font-size="35" font-weight="800" fill="#1a3a5c" letter-spacing="2">FRESH ROUNDS</text>
+
+  <!-- Teal divider line -->
+  <line x1="108" y1="256" x2="292" y2="256" stroke="#2dd4bf" stroke-width="2.5"/>
+
+  <!-- Tagline -->
+  <text x="200" y="276" text-anchor="middle" font-size="15" font-weight="700" fill="#64748b" letter-spacing="4">LAUNDRY · DELIVERY</text>
+
+  <!-- Winchester VA -->
+  <text x="200" y="302" text-anchor="middle" font-size="13" font-weight="700" fill="#94a3b8" letter-spacing="3">WINCHESTER, VA</text>
+
+</svg>

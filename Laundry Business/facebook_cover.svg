@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 312" width="820" height="312">
+<defs>
+  <style>text { font-family: 'Nunito', 'Helvetica Neue', Arial, sans-serif; }</style>
+</defs>
+
+<!-- Wall background -->
+<rect x="0" y="0" width="820" height="312" fill="#eaf4fb"/>
+
+<!-- Tile grid lines -->
+<line x1="0" y1="72" x2="520" y2="72" stroke="#ddedf7" stroke-width="1"/>
+<line x1="0" y1="144" x2="520" y2="144" stroke="#ddedf7" stroke-width="1"/>
+<line x1="0" y1="216" x2="520" y2="216" stroke="#ddedf7" stroke-width="1"/>
+<line x1="72" y1="0" x2="72" y2="224" stroke="#ddedf7" stroke-width="1"/>
+<line x1="144" y1="0" x2="144" y2="224" stroke="#ddedf7" stroke-width="1"/>
+<line x1="216" y1="0" x2="216" y2="224" stroke="#ddedf7" stroke-width="1"/>
+<line x1="288" y1="0" x2="288" y2="224" stroke="#ddedf7" stroke-width="1"/>
+<line x1="360" y1="0" x2="360" y2="224" stroke="#ddedf7" stroke-width="1"/>
+<line x1="432" y1="0" x2="432" y2="224" stroke="#ddedf7" stroke-width="1"/>
+<line x1="504" y1="0" x2="504" y2="224" stroke="#ddedf7" stroke-width="1"/>
+
+<!-- Floor -->
+<rect x="0" y="224" width="820" height="88" fill="#c8dcea"/>
+<line x1="0" y1="224" x2="820" y2="224" stroke="#a8c4d8" stroke-width="2.5"/>
+<line x1="0" y1="254" x2="820" y2="254" stroke="#b8d0e0" stroke-width="1"/>
+<line x1="0" y1="284" x2="820" y2="284" stroke="#b8d0e0" stroke-width="1"/>
+
+<!-- Shelf brackets -->
+<rect x="78" y="75" width="10" height="36" rx="2" fill="#a8c0d0"/>
+<rect x="308" y="75" width="10" height="36" rx="2" fill="#a8c0d0"/>
+<!-- Shelf board -->
+<rect x="65" y="66" width="262" height="17" rx="4" fill="#bdd4e4"/>
+<rect x="65" y="66" width="262" height="7" rx="4" fill="#d2e5f2"/>
+
+<!-- Detergent bottle tall teal -->
+<rect x="84" y="26" width="27" height="41" rx="6" fill="#2dd4bf"/>
+<rect x="84" y="26" width="27" height="15" rx="4" fill="#26b8a6"/>
+<rect x="91" y="16" width="13" height="12" rx="3" fill="#26b8a6"/>
+<rect x="87" y="37" width="21" height="10" rx="2" fill="#1a9e8e" opacity="0.5"/>
+
+<!-- Second bottle navy -->
+<rect x="120" y="33" width="20" height="34" rx="5" fill="#1a3a5c"/>
+<rect x="120" y="33" width="20" height="12" rx="4" fill="#162e4a"/>
+<rect x="124" y="24" width="12" height="11" rx="2" fill="#162e4a"/>
+
+<!-- Towel stack -->
+<rect x="152" y="41" width="54" height="12" rx="3" fill="#ffffff"/>
+<rect x="152" y="29" width="54" height="12" rx="3" fill="#e8f4fb"/>
+<rect x="152" y="17" width="54" height="12" rx="3" fill="#d0e8f5"/>
+<line x1="179" y1="17" x2="179" y2="66" stroke="#c0d8ea" stroke-width="1"/>
+
+<!-- Small plant -->
+<rect x="220" y="46" width="15" height="21" rx="2" fill="#8ba8b8"/>
+<ellipse cx="227" cy="38" rx="12" ry="10" fill="#5a9e7a"/>
+<ellipse cx="220" cy="43" rx="9" ry="7" fill="#4a8e6a"/>
+<ellipse cx="234" cy="42" rx="9" ry="7" fill="#6ab88a"/>
+
+<!-- WASHER 1 -->
+<rect x="65" y="111" width="130" height="115" rx="7" fill="#f4f9fd" stroke="#c8dcea" stroke-width="2.5"/>
+<rect x="65" y="111" width="130" height="27" rx="7" fill="#ddedf7" stroke="#c8dcea" stroke-width="2.5"/>
+<rect x="65" y="125" width="130" height="13" fill="#ddedf7"/>
+<circle cx="90" cy="124" r="7" fill="#a8c0d4" stroke="#8aaec2" stroke-width="1.5"/>
+<circle cx="90" cy="124" r="3" fill="#8aaec2"/>
+<circle cx="165" cy="124" r="7" fill="#a8c0d4" stroke="#8aaec2" stroke-width="1.5"/>
+<circle cx="165" cy="124" r="3" fill="#8aaec2"/>
+<rect x="105" y="116" width="28" height="13" rx="3" fill="#1a3a5c" opacity="0.7"/>
+<rect x="107" y="118" width="24" height="9" rx="2" fill="#2dd4bf" opacity="0.5"/>
+
+<circle cx="130" cy="186" r="40" fill="#ddedf7" stroke="#2dd4bf" stroke-width="3.5"/>
+<circle cx="130" cy="186" r="32" fill="none" stroke="#2dd4bf" stroke-width="1.5" opacity="0.5"/>
+<circle cx="130" cy="186" r="29" fill="#c8e8f5" opacity="0.6"/>
+<ellipse cx="124" cy="191" rx="12" ry="9" fill="#ffffff" opacity="0.6"/>
+<ellipse cx="138" cy="181" rx="10" ry="8" fill="#2dd4bf" opacity="0.4"/>
+<rect x="161" y="181" width="8" height="12" rx="4" fill="#8aaec2"/>
+<rect x="65" y="217" width="130" height="9" fill="#d0e6f2"/>
+<rect x="78" y="226" width="15" height="10" rx="2" fill="#a0b8c8"/>
+<rect x="167" y="226" width="15" height="10" rx="2" fill="#a0b8c8"/>
+
+<!-- WASHER 2 -->
+<rect x="210" y="111" width="130" height="115" rx="7" fill="#f4f9fd" stroke="#c8dcea" stroke-width="2.5"/>
+<rect x="210" y="111" width="130" height="27" rx="7" fill="#ddedf7" stroke="#c8dcea" stroke-width="2.5"/>
+<rect x="210" y="125" width="130" height="13" fill="#ddedf7"/>
+<circle cx="235" cy="124" r="7" fill="#a8c0d4" stroke="#8aaec2" stroke-width="1.5"/>
+<circle cx="235" cy="124" r="3" fill="#8aaec2"/>
+<circle cx="310" cy="124" r="7" fill="#a8c0d4" stroke="#8aaec2" stroke-width="1.5"/>
+<circle cx="310" cy="124" r="3" fill="#8aaec2"/>
+<rect x="250" y="116" width="28" height="13" rx="3" fill="#1a3a5c" opacity="0.7"/>
+<rect x="252" y="118" width="24" height="9" rx="2" fill="#2dd4bf" opacity="0.5"/>
+
+<circle cx="275" cy="186" r="40" fill="#ddedf7" stroke="#2dd4bf" stroke-width="3.5"/>
+<circle cx="275" cy="186" r="32" fill="none" stroke="#2dd4bf" stroke-width="1.5" opacity="0.5"/>
+<circle cx="275" cy="186" r="29" fill="#c8e8f5" opacity="0.6"/>
+<ellipse cx="268" cy="180" rx="11" ry="8" fill="#2dd4bf" opacity="0.4"/>
+<ellipse cx="282" cy="191" rx="12" ry="8" fill="#ffffff" opacity="0.5"/>
+<rect x="306" y="181" width="8" height="12" rx="4" fill="#8aaec2"/>
+<rect x="210" y="217" width="130" height="9" fill="#d0e6f2"/>
+<rect x="223" y="226" width="15" height="10" rx="2" fill="#a0b8c8"/>
+<rect x="312" y="226" width="15" height="10" rx="2" fill="#a0b8c8"/>
+
+<!-- Laundry basket on floor -->
+<ellipse cx="190" cy="234" rx="22" ry="9" fill="#a0b8c8"/>
+<path d="M168 234 L172 272 L208 272 L212 234 Z" fill="#b8ccd8"/>
+<ellipse cx="190" cy="272" rx="18" ry="6" fill="#a0b8c8"/>
+<ellipse cx="183" cy="231" rx="10" ry="5" fill="#ffffff" opacity="0.7"/>
+<ellipse cx="197" cy="230" rx="8" ry="4" fill="#2dd4bf" opacity="0.5"/>
+
+<!-- RIGHT BRAND PANEL -->
+<rect x="520" y="0" width="300" height="312" fill="#1a3a5c"/>
+<rect x="520" y="0" width="6" height="312" fill="#2dd4bf"/>
+
+<!-- Decorative circles -->
+<circle cx="748" cy="36" rx="66" ry="66" fill="#2dd4bf" opacity="0.06"/>
+<circle cx="538" cy="268" r="48" fill="#2dd4bf" opacity="0.07"/>
+
+<!-- Badge logo — centered at cx=670 cy=114 r=75 -->
+<circle cx="670" cy="114" r="75" fill="none" stroke="#ffffff" stroke-width="3"/>
+<circle cx="670" cy="114" r="68" fill="none" stroke="#2dd4bf" stroke-width="1.5" opacity="0.5"/>
+
+<!-- Left bubble -->
+<circle cx="650" cy="84" r="15" fill="#2dd4bf" fill-opacity="0.15" stroke="#2dd4bf" stroke-width="2.5"/>
+<circle cx="643" cy="77" r="2.5" fill="white" fill-opacity="0.75"/>
+
+<!-- Center bubble (slightly raised) -->
+<circle cx="670" cy="76" r="15" fill="#2dd4bf" fill-opacity="0.28" stroke="#2dd4bf" stroke-width="2.5"/>
+<circle cx="663" cy="69" r="2.5" fill="white" fill-opacity="0.75"/>
+
+<!-- Right bubble -->
+<circle cx="690" cy="84" r="15" fill="#2dd4bf" fill-opacity="0.15" stroke="#2dd4bf" stroke-width="2.5"/>
+<circle cx="683" cy="77" r="2.5" fill="white" fill-opacity="0.75"/>
+
+<!-- FRESH ROUNDS -->
+<text x="670" y="125" text-anchor="middle" font-size="17" font-weight="800" fill="#ffffff" letter-spacing="2">FRESH ROUNDS</text>
+<line x1="628" y1="136" x2="712" y2="136" stroke="#2dd4bf" stroke-width="2"/>
+<text x="670" y="150" text-anchor="middle" font-size="11" font-weight="700" fill="#2dd4bf" letter-spacing="2.5">LAUNDRY &#xB7; DELIVERY</text>
+<text x="670" y="164" text-anchor="middle" font-size="10" font-weight="600" fill="#7fb8d0" letter-spacing="2">WINCHESTER, VA</text>
+
+<!-- Bottom tagline -->
+<text x="670" y="255" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff" opacity="0.9">Pickup. Wash. Fold. Deliver.</text>
+<text x="670" y="276" text-anchor="middle" font-size="13" font-weight="600" fill="#2dd4bf" letter-spacing="1.5">Starting at $30 a bag</text>
+</svg>
